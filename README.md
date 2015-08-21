@@ -1,6 +1,6 @@
 # SimpleTodo
 
-Codes from https://guides.codepath.com/android/Basic-Todo-App-Tutoria
+Codes from https://guides.codepath.com/android/Basic-Todo-App-Tutorial
 
 Duration: 30 mins
 
