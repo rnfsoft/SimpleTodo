@@ -1,9 +1,6 @@
 # SimpleTodo
 
-This code is based on "Developing our First App Using Android Studio (Step-by-Step Todo App)" on https://guides.codepath.com/android
-
-Resource from https://docs.google.com/presentation/d/15JnmfmFa0hJOEkBhG_TeymChLzDzpOTJvBlOj29A9fY/edit?pli=1#slide=id.gf45d6347_3_0
-
+Codes from https://guides.codepath.com/android/Basic-Todo-App-Tutoria
 
 Duration: 30 mins
 
